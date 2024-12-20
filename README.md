@@ -95,9 +95,41 @@ DAX Measures
 
 #### Show Total Call by Day
 
+![image](https://github.com/user-attachments/assets/6b88c988-1609-468e-babc-cffaae311069)
+
 #### Show Total Call by State
 
+![image](https://github.com/user-attachments/assets/395d7ae9-2b69-476f-8185-e7d7a578d093)
 
+#### Show Total Call by Reason
+
+![image](https://github.com/user-attachments/assets/1e689ac6-0e14-4b69-85ce-1ac854073b31)
+
+#### Show Total Call by Channel
+
+![image](https://github.com/user-attachments/assets/5bcf530b-b5ae-4065-8fc1-270fc3e6e721)
+
+#### Show Total Call by Sentiment
+
+![image](https://github.com/user-attachments/assets/7d6abd94-c158-4931-abb3-826c13242751)
+
+#### Show Total Call  by Call Center
+
+![image](https://github.com/user-attachments/assets/161233b9-8fe4-4969-a9aa-229aaba8530c)
+
+## Recommendation And Conclusion
+
+1.	Billing Query Resolution: Introduce self-service tools like improved chatbots and billing FAQs to reduce dependency on agents.
+
+2.	Response Time Optimization: Focus on improving SLA compliance, particularly in high-call-volume state.
+ 
+3.	Sentiment Management: Conduct sentiment analysis for states with Very Negative feedback and take corrective actions.
+
+4.	Channel Optimization: Promote Chatbot and Channels for common queries while optimizing Call-Center resources for complex issues.
+
+5.	Training and Resources: Train agents to reduce call duration, improving CSAT scores and operational efficiency.
+	
+The call center highlights critical areas such as high call volumes for billing queries, negative sentiment trends, and SLA compliance issues. Implementing the recommendations can enhance customer satisfaction, reduce call durations, and optimize resource allocation.
 
 
 
