@@ -30,7 +30,7 @@ The call center receives varying call volumes across channels, states, and senti
 ## Data Sourcing  
 Data was provided online in Excel format. I downloaded the CSV file and imported it into Power BI for cleaning, analysis, and visualization, including; Call timestamps, Call duration and volume, State, Channel, Reasons for calls, Response time, SLA compliance and Sentiment scores.
 
-## Power BI Concepts Applied 
+## Power BI Concepts Applied. [Download here](http://powerbi.com)
 The following Power BI concepts were applied to build the dashboard:
 Data Import
 Calculated column
