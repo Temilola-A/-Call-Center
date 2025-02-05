@@ -78,6 +78,7 @@ DAX Measures
 
 ![image](https://github.com/user-attachments/assets/22e86a0b-bb43-4a27-84b0-b4d8a9bddebc)
 
+This is the link to the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTMyNWVmNzEtYmM5Mi00MWQzLWI1NWQtYzIzOWQwMDNiNjk5IiwidCI6IjY4ZDBlMjhiLTg3NTUtNDgzMi1iM2JjLWRhOGQwNjM3YzY5ZCJ9)
 
 #### From The Dashboard, It Is Observed That;
 
